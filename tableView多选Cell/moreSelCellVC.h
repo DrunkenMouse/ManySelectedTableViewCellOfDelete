@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  moreSelCellVC.h
 //  tableView多选Cell
 //
 //  Created by 王奥东 on 16/7/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface moreSelCellVC : UITableViewController
 
 @end
-
